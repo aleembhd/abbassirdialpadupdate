@@ -74,14 +74,15 @@ const students = [
    
    // Firebase configuration
    const firebaseConfig = {
-     apiKey: "AIzaSyBRp7Gv6rw32zakHZZFQ-zxm-ndKL49sh8",
-     authDomain: "studentconnect-6f32b.firebaseapp.com",
-     databaseURL: "https://studentconnect-6f32b-default-rtdb.firebaseio.com",
-     projectId: "studentconnect-6f32b",
-     storageBucket: "studentconnect-6f32b.appspot.com",
-     messagingSenderId: "520897019550",
-     appId: "1:520897019550:web:fb7365a6ca17d30913858f"
-   };
+  apiKey: "AIzaSyClSmunlhHoKCk9rXvuC7QETpl0RlRBCXI",
+  authDomain: "abbas-sir-ece4.firebaseapp.com",
+  databaseURL: "https://abbas-sir-ece4-default-rtdb.firebaseio.com",
+  projectId: "abbas-sir-ece4",
+  storageBucket: "abbas-sir-ece4.appspot.com",
+  messagingSenderId: "219773727362",
+  appId: "1:219773727362:web:9396a19e23c292f47fba9b"
+};
+
    
    // Initialize Firebase
    firebase.initializeApp(firebaseConfig);
